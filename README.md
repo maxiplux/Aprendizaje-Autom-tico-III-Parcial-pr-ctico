@@ -204,7 +204,7 @@ jupyter notebook parcial-final-v1.ipynb
 
 ## 7. Tecnologías Utilizadas
 
-- **Python 3.x**
+- **Python 3.10.x
 - **Pandas** - Manipulación de datos
 - **NumPy** - Cálculos numéricos
 - **Statsmodels** - Modelos ARIMA, pruebas estadísticas
